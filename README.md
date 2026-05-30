@@ -8,8 +8,8 @@ Hi👋 I'm Alikhan
 
 <h5>
   <ul>
-    <li>😄 I can create mobile/web apps</li>
     <li>📫 My portfolio: <a href="https://alixan.kz/" target="_blank">alixan.kz</a></li>
+    <li>🌱 I’m currently working on: <a href="https://ui.alixan.kz/" target="_blank">ui.alixan.kz</a></li>
     <li>📫 How to reach me: <a href="mailto:alixan.engineer@gmail.com" target="_blank">alixan.engineer@gmail.com</a></li>
   </ul>
 </h5>
