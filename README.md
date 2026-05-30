@@ -1,17 +1,16 @@
 <h1 align="center">
-Hi👋 I'm Ali
+Hi👋 I'm Alikhan
 </h1>
 
 <h3 align="center">
-✨ I'm a senior full-stack developer from Kazakhstan ✨
+✨ I'm a full-stack developer from Kazakhstan ✨
 </h3>
 
 <h5>
   <ul>
     <li>😄 I can create mobile/web apps</li>
-    <li>📫 My portfolio: <a href="https://xalidevxx.github.io" target="_blank">xalidevxx.github.io</a></li>
-    <li>🌱 I’m currently working on <a href="https://m.takta.kz/" target="_blank">Takta.kz</a></li>
-    <li>📫 How to reach me: <a href="mailto:xalidevxx@gmail.com" target="_blank">xalidevxx@gmail.com</a></li>
+    <li>📫 My portfolio: <a href="https://alixan.kz/" target="_blank">alixan.kz</a></li>
+    <li>📫 How to reach me: <a href="mailto:alixan.engineer@gmail.com" target="_blank">alixan.engineer@gmail.com</a></li>
   </ul>
 </h5>
 
